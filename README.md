@@ -3,7 +3,7 @@ BIBLE Metadata is a Bible-based dataset for leveraging data analytics for ML dev
 
 
 
-## Basic Info (ko/en)
+## Books (ko/en)
 
 Korean and English names of the Bible, and the number of chapters in each book.
 
@@ -48,4 +48,14 @@ Named Entity Dictionary(CSV) for Bible Words
 | [person](./ne/person.csv) | csv    |
 | [place](./ne/place.csv)   | csv    |
 | [animal](./ne/animal.csv) | csv    |
+
+
+
+## Summary (ko)
+
+content summary for each chapters
+
+| default                           |
+| --------------------------------- |
+| [json](./summary/default.ko.json) |
 
