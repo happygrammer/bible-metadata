@@ -11,3 +11,13 @@ Korean and English names of the Bible, and the number of chapters in each book.
 | -------------------------- | --------------------------- | ---------------------------- | -------------------------- | -------------------------- |
 | [json](./books/array.json) | [json](./books/column.json) | [json](./books/default.json) | [csv](./books/default.csv) | [json](./books/keyed.json) |
 
+
+
+## Verses (ko)
+
+Number of verses for each chapter
+
+| default                          | default                        |
+| -------------------------------- | ------------------------------ |
+| [json](./verses/default.ko.json) | [csv](./verses/default.ko.csv) |
+
