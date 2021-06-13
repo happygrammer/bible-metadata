@@ -1,0 +1,398 @@
+{
+  "1": {
+    "ko": "창",
+    "en": "Gen",
+    "ko_author": "모세",
+    "en_author": "moses"
+  },
+  "2": {
+    "ko": "출",
+    "en": "Exod",
+    "ko_author": "모세",
+    "en_author": "moses"
+  },
+  "3": {
+    "ko": "레",
+    "en": "Lev",
+    "ko_author": "모세",
+    "en_author": "moses"
+  },
+  "4": {
+    "ko": "민",
+    "en": "Num",
+    "ko_author": "모세",
+    "en_author": "moses"
+  },
+  "5": {
+    "ko": "신",
+    "en": "Deut",
+    "ko_author": "모세",
+    "en_author": "moses"
+  },
+  "6": {
+    "ko": "수",
+    "en": "Josh",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "7": {
+    "ko": "삿",
+    "en": "Judg",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "8": {
+    "ko": "룻",
+    "en": "Ruth",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "9": {
+    "ko": "삼상",
+    "en": "1Sam",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "10": {
+    "ko": "삼하",
+    "en": "2Sam",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "11": {
+    "ko": "왕상",
+    "en": "1Kgs",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "12": {
+    "ko": "왕하",
+    "en": "2Kgs",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "13": {
+    "ko": "대상",
+    "en": "1Chr",
+    "ko_author": "에스라",
+    "en_author": "ezra"
+  },
+  "14": {
+    "ko": "대하",
+    "en": "2Chr",
+    "ko_author": "에스라",
+    "en_author": "ezra"
+  },
+  "15": {
+    "ko": "스",
+    "en": "Ezra",
+    "ko_author": "에스라",
+    "en_author": "ezra"
+  },
+  "16": {
+    "ko": "느",
+    "en": "Neh",
+    "ko_author": "느헤미야",
+    "en_author": "nehemiah"
+  },
+  "17": {
+    "ko": "에",
+    "en": "Esth",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "18": {
+    "ko": "욥",
+    "en": "Job",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "19": {
+    "ko": "시",
+    "en": "Ps",
+    "ko_author": "여러명",
+    "en_author": "others"
+  },
+  "20": {
+    "ko": "잠",
+    "en": "Prov",
+    "ko_author": "솔로몬,여러명",
+    "en_author": "solomon,others"
+  },
+  "21": {
+    "ko": "전",
+    "en": "Eccl",
+    "ko_author": "솔로몬",
+    "en_author": "solomon"
+  },
+  "22": {
+    "ko": "아",
+    "en": "Song",
+    "ko_author": "솔로몬",
+    "en_author": "solomon"
+  },
+  "23": {
+    "ko": "사",
+    "en": "Isa",
+    "ko_author": "이사야",
+    "en_author": "isaiah"
+  },
+  "24": {
+    "ko": "렘",
+    "en": "Jer",
+    "ko_author": "예레미야",
+    "en_author": "jeremiah"
+  },
+  "25": {
+    "ko": "애",
+    "en": "Lam",
+    "ko_author": "예레미야",
+    "en_author": "jeremiah"
+  },
+  "26": {
+    "ko": "겔",
+    "en": "Ezek",
+    "ko_author": "에스겔",
+    "en_author": "ezekiel"
+  },
+  "27": {
+    "ko": "단",
+    "en": "Dan",
+    "ko_author": "다니엘",
+    "en_author": "daniel"
+  },
+  "28": {
+    "ko": "호",
+    "en": "Hos",
+    "ko_author": "호세아",
+    "en_author": "hosea"
+  },
+  "29": {
+    "ko": "욜",
+    "en": "Joel",
+    "ko_author": "요엘",
+    "en_author": "joel"
+  },
+  "30": {
+    "ko": "암",
+    "en": "Amos",
+    "ko_author": "아모스",
+    "en_author": "amos"
+  },
+  "31": {
+    "ko": "옵",
+    "en": "Obad",
+    "ko_author": "오바",
+    "en_author": "obdiah"
+  },
+  "32": {
+    "ko": "욘",
+    "en": "Jonah",
+    "ko_author": "요나",
+    "en_author": "jonah"
+  },
+  "33": {
+    "ko": "미",
+    "en": "Mic",
+    "ko_author": "미가",
+    "en_author": "micah"
+  },
+  "34": {
+    "ko": "나",
+    "en": "Nah",
+    "ko_author": "나훔",
+    "en_author": "nahum"
+  },
+  "35": {
+    "ko": "합",
+    "en": "Hab",
+    "ko_author": "하박국",
+    "en_author": "habakkuk"
+  },
+  "36": {
+    "ko": "습",
+    "en": "Zeph",
+    "ko_author": "스바냐",
+    "en_author": "zephaniah"
+  },
+  "37": {
+    "ko": "학",
+    "en": "Hag",
+    "ko_author": "학개",
+    "en_author": "haggai"
+  },
+  "38": {
+    "ko": "슥",
+    "en": "Zech",
+    "ko_author": "스가랴",
+    "en_author": "zechariah"
+  },
+  "39": {
+    "ko": "말",
+    "en": "Mal",
+    "ko_author": "말라기",
+    "en_author": "malaki"
+  },
+  "40": {
+    "ko": "마",
+    "en": "Matt",
+    "ko_author": "마태",
+    "en_author": "matthew"
+  },
+  "41": {
+    "ko": "막",
+    "en": "Mark",
+    "ko_author": "마가",
+    "en_author": "john_mark"
+  },
+  "42": {
+    "ko": "눅",
+    "en": "Luke",
+    "ko_author": "누가",
+    "en_author": "luke"
+  },
+  "43": {
+    "ko": "요",
+    "en": "John",
+    "ko_author": "요한",
+    "en_author": "john"
+  },
+  "44": {
+    "ko": "행",
+    "en": "Acts",
+    "ko_author": "누가",
+    "en_author": "luke"
+  },
+  "45": {
+    "ko": "롬",
+    "en": "Rom",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "46": {
+    "ko": "고전",
+    "en": "1Cor",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "47": {
+    "ko": "고후",
+    "en": "2Cor",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "48": {
+    "ko": "갈",
+    "en": "Gal",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "49": {
+    "ko": "엡",
+    "en": "Eph",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "50": {
+    "ko": "빌",
+    "en": "Phil",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "51": {
+    "ko": "골",
+    "en": "Col",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "52": {
+    "ko": "살전",
+    "en": "1Thess",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "53": {
+    "ko": "살후",
+    "en": "2Thess",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "54": {
+    "ko": "딤전",
+    "en": "1Tim",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "55": {
+    "ko": "딤후",
+    "en": "2Tim",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "56": {
+    "ko": "딛",
+    "en": "Titus",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "57": {
+    "ko": "몬",
+    "en": "Phlm",
+    "ko_author": "바울",
+    "en_author": "paul"
+  },
+  "58": {
+    "ko": "히",
+    "en": "Heb",
+    "ko_author": "-",
+    "en_author": "-"
+  },
+  "59": {
+    "ko": "약",
+    "en": "Jas",
+    "ko_author": "야고보",
+    "en_author": "james"
+  },
+  "60": {
+    "ko": "벧전",
+    "en": "1Pet",
+    "ko_author": "베드로",
+    "en_author": "peter"
+  },
+  "61": {
+    "ko": "벧후",
+    "en": "2Pet",
+    "ko_author": "베드로",
+    "en_author": "peter"
+  },
+  "62": {
+    "ko": "요일",
+    "en": "1John",
+    "ko_author": "요한",
+    "en_author": "john"
+  },
+  "63": {
+    "ko": "요이",
+    "en": "2John",
+    "ko_author": "요한",
+    "en_author": "john"
+  },
+  "64": {
+    "ko": "요삼",
+    "en": "3John",
+    "ko_author": "요한",
+    "en_author": "john"
+  },
+  "65": {
+    "ko": "유",
+    "en": "Jude",
+    "ko_author": "유다",
+    "en_author": "jude"
+  },
+  "66": {
+    "ko": "계",
+    "en": "Rev",
+    "ko_author": "요한",
+    "en_author": "john"
+  }
+}

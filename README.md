@@ -71,6 +71,16 @@ Topic for each book
 
 
 
+## Authors (ko/en)
+
+Authors for each book
+
+| default                       | default                     |
+| ----------------------------- | --------------------------- |
+| [json](./author/default.json) | [csv](./author/default.csv) |
+
+
+
 
 
 ## References
