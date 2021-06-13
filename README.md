@@ -59,3 +59,21 @@ content summary for each chapters
 | ------------------------------- |
 | [csv](./summary/default.ko.csv) |
 
+
+
+## Topics (ko/en)
+
+Topic for each book
+
+| default                       | default                     |
+| ----------------------------- | --------------------------- |
+| [json](./topics/default.json) | [csv](./topics/default.csv) |
+
+
+
+
+
+## References
+
+- Topics : https://overviewbible.com
+

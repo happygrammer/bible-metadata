@@ -1,0 +1,398 @@
+{
+  "1": {
+    "ko": "창",
+    "en": "Gen",
+    "ko_topic": "사람의 창조와 타락, 하나님이 구원을 약속하심",
+    "en_topic": "Genesis answers two big questions: “How did God’s relationship with the world begin?” and “Where did the nation of Israel come from?”"
+  },
+  "2": {
+    "ko": "출",
+    "en": "Exod",
+    "ko_topic": "이스라엘 민족이 이집트 노예에서 홍해를 건너 광야로 이동한 이야기",
+    "en_topic": "God saves Israel from slavery in Egypt, and then enters into a special relationship with them."
+  },
+  "3": {
+    "ko": "레",
+    "en": "Lev",
+    "ko_topic": "레위 지파의 제사와 성막, 율법에 관한 책",
+    "en_topic": "God gives Israel instructions for how to worship Him."
+  },
+  "4": {
+    "ko": "민",
+    "en": "Num",
+    "ko_topic": "시내산에서 가나안 정복까지, 40년간의 광야 생활에 관한 이야기",
+    "en_topic": "Israel fails to trust and obey God, and wanders in the"
+  },
+  "5": {
+    "ko": "신",
+    "en": "Deut",
+    "ko_topic": "가나안 입국 전, 이스라엘의 생활중 하나님의 율법을 따름",
+    "en_topic": "Moses gives Israel instructions (in some ways, a recap of the laws in Exodus–Numbers) for how to love and obey God in the Promised Land."
+  },
+  "6": {
+    "ko": "수",
+    "en": "Josh",
+    "ko_topic": "여호수아의 가나안땅 정복의 역사",
+    "en_topic": "Joshua (Israel’s new leader) leads Israel to conquer the Promised land, then parcels out territories to the twelve tribes of Israel."
+  },
+  "7": {
+    "ko": "삿",
+    "en": "Judg",
+    "ko_topic": "이스라엘 백성들의 300년간의 가나안 정착사",
+    "en_topic": "Israel enters a cycle of turning from God, falling captive to oppressive nations, calling out to God, and being rescued by leaders God sends their way (called “judges”)."
+  },
+  "8": {
+    "ko": "룻",
+    "en": "Ruth",
+    "ko_topic": "혼란한 사사 시대에 있었던 한 가정의 이야기",
+    "en_topic": "Two widows lose everything, and find hope in Israel—which leads to the birth of the future King David."
+  },
+  "9": {
+    "ko": "삼상",
+    "en": "1Sam",
+    "ko_topic": "사무엘, 사울의 이스라엘 통치 이야기",
+    "en_topic": "Israel demands a king, who turns out to be quite a disappointment."
+  },
+  "10": {
+    "ko": "삼하",
+    "en": "2Sam",
+    "ko_topic": "다윗의 이스라엘 통치 이야기",
+    "en_topic": "David, a man after God’s own heart, becomes king of Israel."
+  },
+  "11": {
+    "ko": "왕상",
+    "en": "1Kgs",
+    "ko_topic": "솔로몬이, 다윗이 염원하던 성전을 건축하고, 이스라엘을 통치한 이야기",
+    "en_topic": "The kingdom of Israel has a time of peace and prosperity under King Solomon, but afterward splits, and the two lines of kings turn away from God."
+  },
+  "12": {
+    "ko": "왕하",
+    "en": "2Kgs",
+    "ko_topic": "북 왕국의 앗시리아에 의한 멸망과 남 왕국의 바빌로니아에 멸망하기 까지",
+    "en_topic": "Both kingdoms ignore God and his prophets, until they both fall captive to other world empires."
+  },
+  "13": {
+    "ko": "대상",
+    "en": "1Chr",
+    "ko_topic": "이스라엘 족속들의 계보를 중심으로 역사를 기록함",
+    "en_topic": "This is a brief history of Israel from Adam to David, culminating with David commissioning the temple of God in Jerusalem."
+  },
+  "14": {
+    "ko": "대하",
+    "en": "2Chr",
+    "ko_topic": "솔로몬의 이스라엘 통치 이야기",
+    "en_topic": "David’s son Solomon builds the temple, but after centuries of rejecting God, the Babylonians take the southern Israelites captive and destroy the temple."
+  },
+  "15": {
+    "ko": "스",
+    "en": "Ezra",
+    "ko_topic": "이스라엘 백성들의 귀국과 스룹바벨에 의한 성전 건축, 율법정착",
+    "en_topic": "The Israelites rebuild the temple in Jerusalem, and a scribe named Ezra teaches the people to once again obey God’s laws."
+  },
+  "16": {
+    "ko": "느",
+    "en": "Neh",
+    "ko_topic": "적들의 방해에도 불구하고, 불에 탄 예루살렘 성곽을 재건함",
+    "en_topic": "The city of Jerusalem is in bad shape, so Nehemiah rebuilds the wall around the city."
+  },
+  "17": {
+    "ko": "에",
+    "en": "Esth",
+    "ko_topic": "이스라엘을 향한 하나님의 은밀하신 보호하심",
+    "en_topic": "Someone hatches a genocidal plot to bring about Israel’s extinction, and Esther must face the emperor to ask for help."
+  },
+  "18": {
+    "ko": "욥",
+    "en": "Job",
+    "ko_topic": "인간의 한계성과 하나님께서 거룩한 사람을 다루는 목적",
+    "en_topic": "Satan attacks a righteous man named Job, and Job and his friends argue about why terrible things are happening to him."
+  },
+  "19": {
+    "ko": "시",
+    "en": "Ps",
+    "ko_topic": "하나님을 향한 찬미와 기쁨의 찬양",
+    "en_topic": "A collection of 150 songs that Israel sang to God (and to each other)—kind of like a hymnal for the ancient Israelites."
+  },
+  "20": {
+    "ko": "잠",
+    "en": "Prov",
+    "ko_topic": "인생의 지혜는 여호와를 경외하는 것",
+    "en_topic": "A collection of sayings written to help people make wise decisions that bring about justice."
+  },
+  "21": {
+    "ko": "전",
+    "en": "Eccl",
+    "ko_topic": "인생을 지으신 창조주를 기억하지 않으면, 모든 것이 헛됨",
+    "en_topic": "A philosophical exploration of the meaning of life—with a surprisingly nihilistic tone for the Bible."
+  },
+  "22": {
+    "ko": "아",
+    "en": "Song",
+    "ko_topic": "솔로몬과 술람미 여인과의 사랑의 노래",
+    "en_topic": "A love song (or collection of love songs) celebrating love, desire, and marriage."
+  },
+  "23": {
+    "ko": "사",
+    "en": "Isa",
+    "ko_topic": "이스라엘 남북 왕국, 60년 동안 활동한 이사야의 예언",
+    "en_topic": "God sends the prophet Isaiah to warn Israel of future judgment—but also to tell them about a coming king and servant who will “bear the sins of many.”"
+  },
+  "24": {
+    "ko": "렘",
+    "en": "Jer",
+    "ko_topic": "몰락 직전에 있는 조국을 구출하려고 눈물로 회개를 촉구함",
+    "en_topic": "God sends a prophet to warn Israel about the coming Babylonian captivity, but the people don’t take the news very well."
+  },
+  "25": {
+    "ko": "애",
+    "en": "Lam",
+    "ko_topic": "하나님의 거룩한 성과 백성에 대한 예레미야의 슬픔과 사랑의 표현",
+    "en_topic": "A collection of dirges lamenting the fall of Jerusalem after the Babylonian attacks."
+  },
+  "26": {
+    "ko": "겔",
+    "en": "Ezek",
+    "ko_topic": "BC 597년 포로로 잡혀간 제사장 에스겔, 바빌로니아에서 받은 예언을 기록함",
+    "en_topic": "God chooses a man to speak for Him to Israel, to tell them the error of their ways and teach them justice: Ezekiel."
+  },
+  "27": {
+    "ko": "단",
+    "en": "Dan",
+    "ko_topic": "바빌로니아로 잡혀간 다니엘의 이야기",
+    "en_topic": "Daniel becomes a high-ranking wise man in the Babylonian and Persian empires, and has prophetic visions concerning Israel’s future."
+  },
+  "28": {
+    "ko": "호",
+    "en": "Hos",
+    "ko_topic": "BC 722년 북 왕국 멸망전 40년간 활동한 호세아, 하나님의 마음에 대해 설교",
+    "en_topic": "Hosea is told to marry a prostitute who leaves him, and he must bring her back: a picture of God’s relationship with Israel."
+  },
+  "29": {
+    "ko": "욜",
+    "en": "Joel",
+    "ko_topic": "이스라엘 백성들에게 재난을 선언하다.",
+    "en_topic": "God sends a plague of locusts to Judge Israel, but his judgment on the surrounding nations is coming, too."
+  },
+  "30": {
+    "ko": "암",
+    "en": "Amos",
+    "ko_topic": "유다, 이스라엘, 주변국들에 대한 하나님의 심판과 이스라엘의 회복",
+    "en_topic": "A shepherd named Amos preaches against the injustice of the Northern Kingdom of Israel."
+  },
+  "31": {
+    "ko": "옵",
+    "en": "Obad",
+    "ko_topic": "에서의 후손인에돔의 멸망에 대한 예언",
+    "en_topic": "Obadiah warns the neighboring nation of Edom that they will be judged for plundering Jerusalem."
+  },
+  "32": {
+    "ko": "욘",
+    "en": "Jonah",
+    "ko_topic": "여호와의 구원은 이방인의 성 니느웨까지",
+    "en_topic": "A disobedient prophet runs from God, is swallowed by a great fish, and then preaches God’s message to the city of Nineveh."
+  },
+  "33": {
+    "ko": "미",
+    "en": "Mic",
+    "ko_topic": "이스라엘 대한 여호와의 책망과 이스라엘의 회복",
+    "en_topic": "Micah confronts the leaders of Israel and Judah regarding their injustice, and prophecies that one day the Lord himself will rule in perfect justice."
+  },
+  "34": {
+    "ko": "나",
+    "en": "Nah",
+    "ko_topic": "앗수르의 수도인 니느웨에 대한 여호와의 심판",
+    "en_topic": "Nahum foretells of God’s judgment on Nineveh, the capital of Assyria."
+  },
+  "35": {
+    "ko": "합",
+    "en": "Hab",
+    "ko_topic": "하나님의 의로운 심판",
+    "en_topic": "Habakkuk pleads with God to stop the injustice and violence in Judah, but is surprised to find that God will use the even more violent Babylonians to do so."
+  },
+  "36": {
+    "ko": "습",
+    "en": "Zeph",
+    "ko_topic": "이스라엘과 열국에 대한 여호와의 심판과 이방인들과 이스라엘 대한 구원",
+    "en_topic": "God warns that he will judge Israel and the surrounding nations, but also that he will restore them in peace and justice."
+  },
+  "37": {
+    "ko": "학",
+    "en": "Hag",
+    "ko_topic": "여호와께서 그분의 전을 건축하기 위해 귀환한 포로들을 다루심",
+    "en_topic": "The people have abandoned the work of restoring God’s temple in Jerusalem, and so Haggai takes them to task."
+  },
+  "38": {
+    "ko": "슥",
+    "en": "Zech",
+    "ko_topic": "학개와 동시대의 사람이었던 스가랴, 사로잡히었다가 귀환한 사람들에게 예언",
+    "en_topic": "The prophet Zechariah calls Israel to return to God, and records prophetic visions that show what’s happening behind the scenes."
+  },
+  "39": {
+    "ko": "말",
+    "en": "Mal",
+    "ko_topic": "포로 귀한 후 100년이 지난 뒤, 백성들의 신앙과 생활을 개선하기를 촉구하다.",
+    "en_topic": "God has been faithful to Israel, but they continue to live disconnected from him—so God sends Malachi to call them out."
+  },
+  "40": {
+    "ko": "마",
+    "en": "Matt",
+    "ko_topic": "마태, 예수 그리스도는 왕 중의 왕, 전 인류의 구세주라는 사실을 온 세상 사람들에게 전함",
+    "en_topic": "This is an account of Jesus’ life, death, and resurrection, focusing on Jesus’ role as the true king of the Jews."
+  },
+  "41": {
+    "ko": "막",
+    "en": "Mark",
+    "ko_topic": "십자가에서 돌아가신 예수를 믿는 사람은 구원을 얻음",
+    "en_topic": "This brief account of Jesus’ earthly ministry highlights Jesus’ authority and servanthood."
+  },
+  "42": {
+    "ko": "눅",
+    "en": "Luke",
+    "ko_topic": "이방인들을 위한 책, 완전한 사람이고, 완전한 하나님이신 예수 그리스도",
+    "en_topic": "Luke writes the most thorough account of Jesus’ life, pulling together eyewitness testimonies to tell the full story of Jesus."
+  },
+  "43": {
+    "ko": "요",
+    "en": "John",
+    "ko_topic": "하나님의 아들이신 예수 그리스도",
+    "en_topic": "John lists stories of signs and miracles with the hope that readers will believe in Jesus."
+  },
+  "44": {
+    "ko": "행",
+    "en": "Acts",
+    "ko_topic": "교회 탄생의 목격자인 누가의 증언",
+    "en_topic": "Jesus returns to the Father, the Holy Spirit comes to the church, and the gospel of Jesus spreads throughout the world."
+  },
+  "45": {
+    "ko": "롬",
+    "en": "Rom",
+    "ko_topic": "믿음으로 말미암아 사람이 의롭게 된다.",
+    "en_topic": "Paul summarizes how the gospel of Jesus works in a letter to the churches at Rome, where he plans to visit."
+  },
+  "46": {
+    "ko": "고전",
+    "en": "1Cor",
+    "ko_topic": "교회의 무질서에 대한 바울의 편지, 그리스도의 십자가는 교회안의 문제에 대한 해답",
+    "en_topic": "Paul writes a disciplinary letter to a fractured church in Corinth, and answers some questions that they’ve had about how Christians should behave."
+  },
+  "47": {
+    "ko": "고후",
+    "en": "2Cor",
+    "ko_topic": "바울 자신이 사도권을 변호하기 위해 쓴 편지",
+    "en_topic": "Paul writes a letter of reconciliation to the church at Corinth, and clears up some concerns that they have."
+  },
+  "48": {
+    "ko": "갈",
+    "en": "Gal",
+    "ko_topic": "구원을 받는 것은 율법이 아닌 믿음으로 말미암아 된다.",
+    "en_topic": "Paul hears that the Galatian churches have been lead to think that salvation comes from the law of Moses, and writes a (rather heated) letter telling them where the false teachers have it wrong."
+  },
+  "49": {
+    "ko": "엡",
+    "en": "Eph",
+    "ko_topic": "유대인과 이방인들 사이의 의견 대립, 에베소 교인들에게 교회의 단결을 호소함",
+    "en_topic": "Paul writes to the church at Ephesus about how to walk in grace, peace, and love."
+  },
+  "50": {
+    "ko": "빌",
+    "en": "Phil",
+    "ko_topic": "유럽 최초의 교회, 빌립보교회에 대한 바울의 권면",
+    "en_topic": "An encouraging letter to the church of Philippi from Paul, telling them how to have joy in Christ."
+  },
+  "51": {
+    "ko": "골",
+    "en": "Col",
+    "ko_topic": "예수 그리스도는 하나님의 형상이시고 교회의 머리되신다.",
+    "en_topic": "Paul writes the church at Colossae a letter about who they are in Christ, and how to walk in Christ."
+  },
+  "52": {
+    "ko": "살전",
+    "en": "1Thess",
+    "ko_topic": "데살로니가 그리스도인들에게 향한 바울의 격려, 하나님을 섬기고, 주님의 재림을 기다리는 생활",
+    "en_topic": "Paul has heard a good report on the church at Thessalonica, and encourages them to “excel still more” in faith, hope, and love."
+  },
+  "53": {
+    "ko": "살후",
+    "en": "2Thess",
+    "ko_topic": "주님의 재림을 대하는 그리스도인의 태도",
+    "en_topic": "Paul instructs the Thessalonians on how to stand firm until the coming of Jesus."
+  },
+  "54": {
+    "ko": "딤전",
+    "en": "1Tim",
+    "ko_topic": "에베소를 맡은 청년 목사, 디모데에게 목회자의 자세, 교회 운영, 가정과 사회에 관하여 편지함",
+    "en_topic": "Paul gives his protegé Timothy instruction on how to lead a church with sound teaching and a godly example."
+  },
+  "55": {
+    "ko": "딤후",
+    "en": "2Tim",
+    "ko_topic": "순교직전 바울, 믿음의 아들 디모데에게 보내는 유언장 같은 편지",
+    "en_topic": "Paul is nearing the end of his life, and encourages Timothy to continue preaching the word."
+  },
+  "56": {
+    "ko": "딛",
+    "en": "Titus",
+    "ko_topic": "크레테 교회를 지도하고 있는 유능한 청년 목사 디도에게 보내는 바울의 편지",
+    "en_topic": "Paul advises Titus on how to lead orderly, counter-cultural churches on the island of Crete."
+  },
+  "57": {
+    "ko": "몬",
+    "en": "Phlm",
+    "ko_topic": "도망간 오네시모에 대한 용서를 구함",
+    "en_topic": "Paul strongly recommends that Philemon accept his runaway slave as a brother, not a slave."
+  },
+  "58": {
+    "ko": "히",
+    "en": "Heb",
+    "ko_topic": "구원은 율법을 지켜서가 아니라, 예수 그리스도를 믿는 믿음으로써만 된다고 유대인들에게 강조함",
+    "en_topic": "A letter encouraging Christians to cling to Christ despite persecution, because he is greater."
+  },
+  "59": {
+    "ko": "약",
+    "en": "Jas",
+    "ko_topic": "선한 사업",
+    "en_topic": "A letter telling Christians to live in ways that demonstrate their faith in action."
+  },
+  "60": {
+    "ko": "벧전",
+    "en": "1Pet",
+    "ko_topic": "박해를 당하고 있는 교회에게",
+    "en_topic": "Peter writes to Christians who are being persecuted, encouraging them to testify to the truth and live accordingly."
+  },
+  "61": {
+    "ko": "벧후",
+    "en": "2Pet",
+    "ko_topic": "교회안의 이단에 대한 경계",
+    "en_topic": "Peter writes a letter reminding Christians about the truth of Jesus, and warning them that false teachers will come."
+  },
+  "62": {
+    "ko": "요일",
+    "en": "1John",
+    "ko_topic": "그리스도의 참 사랑, 신성한 생명의 교통",
+    "en_topic": "John writes a letter to Christians about keeping Jesus’ commands, loving one another, and important things they should know."
+  },
+  "63": {
+    "ko": "요이",
+    "en": "2John",
+    "ko_topic": "거짓 선생에 대한 경고",
+    "en_topic": "A very brief letter about walking in truth, love, and obedience."
+  },
+  "64": {
+    "ko": "요삼",
+    "en": "3John",
+    "ko_topic": "요한의 동역자가 배척",
+    "en_topic": "An even shorter letter about Christian fellowship."
+  },
+  "65": {
+    "ko": "유",
+    "en": "Jude",
+    "ko_topic": "영지주의에 대한 복음의 진리를 가지고 변증",
+    "en_topic": "A letter encouraging Christians to contend for the faith, even though ungodly persons have crept in unnoticed."
+  },
+  "66": {
+    "ko": "계",
+    "en": "Rev",
+    "ko_topic": "그리스도의 궁극적 승리, 새 예루살렘",
+    "en_topic": "John sees visions of things that have been, things that are, and things that are yet to come."
+  }
+}
