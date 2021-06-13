@@ -35,3 +35,17 @@ Genre or type for each Bible book.
 | -------------------------- | --------------------------- | ---------------------------- | -------------------------- | -------------------------- |
 | [json](./types/array.json) | [json](./types/column.json) | [json](./types/default.json) | [csv](./types/default.csv) | [json](./types/keyed.json) |
 
+
+
+
+
+## Named Entity (ko)
+
+Named Entity Dictionary(CSV) for Bible Words
+
+| Name                      | format |
+| ------------------------- | ------ |
+| [person](./ne/person.csv) | csv    |
+| [place](./ne/place.csv)   | csv    |
+| [animal](./ne/animal.csv) | csv    |
+
