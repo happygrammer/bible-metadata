@@ -75,9 +75,9 @@ Topic for each book
 
 Authors for each book
 
-| default                       | default                     |
-| ----------------------------- | --------------------------- |
-| [json](./author/default.json) | [csv](./author/default.csv) |
+| default                        | default                      |
+| ------------------------------ | ---------------------------- |
+| [json](./authors/default.json) | [csv](./authors/default.csv) |
 
 
 
