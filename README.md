@@ -55,7 +55,7 @@ Named Entity Dictionary(CSV) for Bible Words
 
 content summary for each chapters
 
-| default                           |
-| --------------------------------- |
-| [json](./summary/default.ko.json) |
+| default                         |
+| ------------------------------- |
+| [csv](./summary/default.ko.csv) |
 
