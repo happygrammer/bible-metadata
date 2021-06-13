@@ -13,6 +13,8 @@ Korean and English names of the Bible, and the number of chapters in each book.
 
 
 
+
+
 ## Verses (ko)
 
 Number of verses for each chapter
@@ -20,4 +22,16 @@ Number of verses for each chapter
 | default                          | default                        |
 | -------------------------------- | ------------------------------ |
 | [json](./verses/default.ko.json) | [csv](./verses/default.ko.csv) |
+
+
+
+
+
+## Types (ko/en)
+
+Genre or type for each Bible book.
+
+| array                      | column                      | default                      | default                    | keyed                      |
+| -------------------------- | --------------------------- | ---------------------------- | -------------------------- | -------------------------- |
+| [json](./types/array.json) | [json](./types/column.json) | [json](./types/default.json) | [csv](./types/default.csv) | [json](./types/keyed.json) |
 

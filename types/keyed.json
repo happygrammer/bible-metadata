@@ -1,0 +1,398 @@
+{
+   "1": {
+      "ko": "창",
+      "ko_types": "모세오경",
+      "en": "Gen",
+      "en_types": "books_of_the_laws"
+   },
+   "2": {
+      "ko": "출",
+      "ko_types": "모세오경",
+      "en": "Exod",
+      "en_types": "books_of_the_laws"
+   },
+   "3": {
+      "ko": "레",
+      "ko_types": "모세오경",
+      "en": "Lev",
+      "en_types": "books_of_the_laws"
+   },
+   "4": {
+      "ko": "민",
+      "ko_types": "모세오경",
+      "en": "Num",
+      "en_types": "books_of_the_laws"
+   },
+   "5": {
+      "ko": "신",
+      "ko_types": "모세오경",
+      "en": "Deut",
+      "en_types": "books_of_the_laws"
+   },
+   "6": {
+      "ko": "수",
+      "ko_types": "역사서",
+      "en": "Josh",
+      "en_types": "history"
+   },
+   "7": {
+      "ko": "삿",
+      "ko_types": "역사서",
+      "en": "Judg",
+      "en_types": "history"
+   },
+   "8": {
+      "ko": "룻",
+      "ko_types": "역사서",
+      "en": "Ruth",
+      "en_types": "history"
+   },
+   "9": {
+      "ko": "삼상",
+      "ko_types": "역사서",
+      "en": "1Sam",
+      "en_types": "history"
+   },
+   "10": {
+      "ko": "삼하",
+      "ko_types": "역사서",
+      "en": "2Sam",
+      "en_types": "history"
+   },
+   "11": {
+      "ko": "왕상",
+      "ko_types": "역사서",
+      "en": "1Kgs",
+      "en_types": "history"
+   },
+   "12": {
+      "ko": "왕하",
+      "ko_types": "역사서",
+      "en": "2Kgs",
+      "en_types": "history"
+   },
+   "13": {
+      "ko": "대상",
+      "ko_types": "역사서",
+      "en": "1Chr",
+      "en_types": "history"
+   },
+   "14": {
+      "ko": "대하",
+      "ko_types": "역사서",
+      "en": "2Chr",
+      "en_types": "history"
+   },
+   "15": {
+      "ko": "스",
+      "ko_types": "역사서",
+      "en": "Ezra",
+      "en_types": "history"
+   },
+   "16": {
+      "ko": "느",
+      "ko_types": "역사서",
+      "en": "Neh",
+      "en_types": "history"
+   },
+   "17": {
+      "ko": "에",
+      "ko_types": "역사서",
+      "en": "Esth",
+      "en_types": "history"
+   },
+   "18": {
+      "ko": "욥",
+      "ko_types": "시가서",
+      "en": "Job",
+      "en_types": "poetry"
+   },
+   "19": {
+      "ko": "시",
+      "ko_types": "시가서",
+      "en": "Ps",
+      "en_types": "poetry"
+   },
+   "20": {
+      "ko": "잠",
+      "ko_types": "시가서",
+      "en": "Prov",
+      "en_types": "poetry"
+   },
+   "21": {
+      "ko": "전",
+      "ko_types": "시가서",
+      "en": "Eccl",
+      "en_types": "poetry"
+   },
+   "22": {
+      "ko": "아",
+      "ko_types": "시가서",
+      "en": "Song",
+      "en_types": "poetry"
+   },
+   "23": {
+      "ko": "사",
+      "ko_types": "대선지서",
+      "en": "Isa",
+      "en_types": "major_prophets"
+   },
+   "24": {
+      "ko": "렘",
+      "ko_types": "대선지서",
+      "en": "Jer",
+      "en_types": "major_prophets"
+   },
+   "25": {
+      "ko": "애",
+      "ko_types": "대선지서",
+      "en": "Lam",
+      "en_types": "major_prophets"
+   },
+   "26": {
+      "ko": "겔",
+      "ko_types": "대선지서",
+      "en": "Ezek",
+      "en_types": "major_prophets"
+   },
+   "27": {
+      "ko": "단",
+      "ko_types": "대선지서",
+      "en": "Dan",
+      "en_types": "major_prophets"
+   },
+   "28": {
+      "ko": "호",
+      "ko_types": "소선지서",
+      "en": "Hos",
+      "en_types": "minor_prophets"
+   },
+   "29": {
+      "ko": "욜",
+      "ko_types": "소선지서",
+      "en": "Joel",
+      "en_types": "minor_prophets"
+   },
+   "30": {
+      "ko": "암",
+      "ko_types": "소선지서",
+      "en": "Amos",
+      "en_types": "minor_prophets"
+   },
+   "31": {
+      "ko": "옵",
+      "ko_types": "소선지서",
+      "en": "Obad",
+      "en_types": "minor_prophets"
+   },
+   "32": {
+      "ko": "욘",
+      "ko_types": "소선지서",
+      "en": "Jonah",
+      "en_types": "minor_prophets"
+   },
+   "33": {
+      "ko": "미",
+      "ko_types": "소선지서",
+      "en": "Mic",
+      "en_types": "minor_prophets"
+   },
+   "34": {
+      "ko": "나",
+      "ko_types": "소선지서",
+      "en": "Nah",
+      "en_types": "minor_prophets"
+   },
+   "35": {
+      "ko": "합",
+      "ko_types": "소선지서",
+      "en": "Hab",
+      "en_types": "minor_prophets"
+   },
+   "36": {
+      "ko": "습",
+      "ko_types": "소선지서",
+      "en": "Zeph",
+      "en_types": "minor_prophets"
+   },
+   "37": {
+      "ko": "학",
+      "ko_types": "소선지서",
+      "en": "Hag",
+      "en_types": "minor_prophets"
+   },
+   "38": {
+      "ko": "슥",
+      "ko_types": "소선지서",
+      "en": "Zech",
+      "en_types": "minor_prophets"
+   },
+   "39": {
+      "ko": "말",
+      "ko_types": "소선지서",
+      "en": "Mal",
+      "en_types": "minor_prophets"
+   },
+   "40": {
+      "ko": "마",
+      "ko_types": "4복음서",
+      "en": "Matt",
+      "en_types": "gospels"
+   },
+   "41": {
+      "ko": "막",
+      "ko_types": "4복음서",
+      "en": "Mark",
+      "en_types": "gospels"
+   },
+   "42": {
+      "ko": "눅",
+      "ko_types": "4복음서",
+      "en": "Luke",
+      "en_types": "gospels"
+   },
+   "43": {
+      "ko": "요",
+      "ko_types": "4복음서",
+      "en": "John",
+      "en_types": "gospels"
+   },
+   "44": {
+      "ko": "행",
+      "ko_types": "역사서",
+      "en": "Acts",
+      "en_types": "history"
+   },
+   "45": {
+      "ko": "롬",
+      "ko_types": "바울서신",
+      "en": "Rom",
+      "en_types": "pauline_epistles"
+   },
+   "46": {
+      "ko": "고전",
+      "ko_types": "바울서신",
+      "en": "1Cor",
+      "en_types": "pauline_epistles"
+   },
+   "47": {
+      "ko": "고후",
+      "ko_types": "바울서신",
+      "en": "2Cor",
+      "en_types": "pauline_epistles"
+   },
+   "48": {
+      "ko": "갈",
+      "ko_types": "바울서신",
+      "en": "Gal",
+      "en_types": "pauline_epistles"
+   },
+   "49": {
+      "ko": "엡",
+      "ko_types": "바울서신",
+      "en": "Eph",
+      "en_types": "pauline_epistles"
+   },
+   "50": {
+      "ko": "빌",
+      "ko_types": "바울서신",
+      "en": "Phil",
+      "en_types": "pauline_epistles"
+   },
+   "51": {
+      "ko": "골",
+      "ko_types": "바울서신",
+      "en": "Col",
+      "en_types": "pauline_epistles"
+   },
+   "52": {
+      "ko": "살전",
+      "ko_types": "바울서신",
+      "en": "1Thess",
+      "en_types": "pauline_epistles"
+   },
+   "53": {
+      "ko": "살후",
+      "ko_types": "바울서신",
+      "en": "2Thess",
+      "en_types": "pauline_epistles"
+   },
+   "54": {
+      "ko": "딤전",
+      "ko_types": "바울서신",
+      "en": "1Tim",
+      "en_types": "pauline_epistles"
+   },
+   "55": {
+      "ko": "딤후",
+      "ko_types": "바울서신",
+      "en": "2Tim",
+      "en_types": "pauline_epistles"
+   },
+   "56": {
+      "ko": "딛",
+      "ko_types": "바울서신",
+      "en": "Titus",
+      "en_types": "pauline_epistles"
+   },
+   "57": {
+      "ko": "몬",
+      "ko_types": "바울서신",
+      "en": "Phlm",
+      "en_types": "pauline_epistles"
+   },
+   "58": {
+      "ko": "히",
+      "ko_types": "공동서신",
+      "en": "Heb",
+      "en_types": "epistles"
+   },
+   "59": {
+      "ko": "약",
+      "ko_types": "공동서신",
+      "en": "Jas",
+      "en_types": "epistles"
+   },
+   "60": {
+      "ko": "벧전",
+      "ko_types": "공동서신",
+      "en": "1Pet",
+      "en_types": "epistles"
+   },
+   "61": {
+      "ko": "벧후",
+      "ko_types": "공동서신",
+      "en": "2Pet",
+      "en_types": "epistles"
+   },
+   "62": {
+      "ko": "요일",
+      "ko_types": "공동서신",
+      "en": "1John",
+      "en_types": "epistles"
+   },
+   "63": {
+      "ko": "요이",
+      "ko_types": "공동서신",
+      "en": "2John",
+      "en_types": "epistles"
+   },
+   "64": {
+      "ko": "요삼",
+      "ko_types": "공동서신",
+      "en": "3John",
+      "en_types": "epistles"
+   },
+   "65": {
+      "ko": "유",
+      "ko_types": "공동서신",
+      "en": "Jude",
+      "en_types": "epistles"
+   },
+   "66": {
+      "ko": "계",
+      "ko_types": "예언서",
+      "en": "Rev",
+      "en_types": "apocalyptic"
+   }
+}
